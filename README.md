@@ -8,13 +8,18 @@ or if my web servers go down,
 I change my DNS rules to point to this site while it is down, and then point 
 DNS rules back to the production web server is back up and running.
 
-Here is an example of what it looks like.
+##Here is an example of what it looks like.
 
 https://comingsoon.tovartech.org/
 
 Feel free to download this html file and customize it to your needs.
 You can edit the file via any text editor, i use Visual Studio Code.
 and you can change this to say coming soon or under maintenance for example.
+#######
+##I gave you a choice of a coming soon or a maintenance site. Just copy and paste the line you need and the images are already in the zip file.
+##be sure to edit line 17
+##<p><img src="images/maintenance.png" title=""></p>
+##<p><img src="images/coming.png" title=""></p>
 
 have fun.
 Noe
