@@ -1,8 +1,8 @@
-# under-construction WEbsite
+# under-construction Website
 Shared under construction HTML file.
 
 I found this free template that I use when I am doing maintenance or backups of my servers.
-I change my DNS rules to point to this site.
+I changed my DNS rules to point to this site.
 
 Here is an example of what it looks like.
 
