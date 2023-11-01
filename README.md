@@ -13,3 +13,8 @@ Here is an example of what it looks like.
 https://comingsoon.tovartech.org/
 
 Feel free to download this html file and customize it to your needs.
+You can edit the file via any text editor, i use Visual Studio Code.
+and you can change this to say coming soon or under maintenance for example.
+
+have fun.
+Noe
